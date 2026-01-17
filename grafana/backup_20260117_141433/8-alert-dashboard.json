@@ -1,0 +1,11 @@
+{
+  "title": "Alert Dashboard",
+"tags": ["alerts", "monitoring"],
+"timezone": "browser",
+"panels": [],
+"refresh": "10s"
+  },
+  "timezone": "browser",
+  "refresh": "10s",
+  "schemaVersion": 36
+}

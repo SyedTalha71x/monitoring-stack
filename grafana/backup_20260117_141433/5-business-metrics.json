@@ -1,0 +1,11 @@
+{
+  "title": "Business Metrics",
+"tags": ["business", "metrics"],
+"timezone": "browser",
+"panels": [],
+"refresh": "30s"
+  },
+  "timezone": "browser",
+  "refresh": "10s",
+  "schemaVersion": 36
+}

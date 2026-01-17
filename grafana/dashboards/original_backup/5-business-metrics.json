@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "Business Metrics",
+    "tags": ["business", "metrics"],
+    "timezone": "browser",
+    "panels": [],
+    "refresh": "30s"
+  },
+  "overwrite": true
+}

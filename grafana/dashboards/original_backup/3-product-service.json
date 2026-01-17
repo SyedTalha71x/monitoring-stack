@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "Product Service",
+    "tags": ["product-service", "monitoring"],
+    "timezone": "browser",
+    "panels": [],
+    "refresh": "10s"
+  },
+  "overwrite": true
+}

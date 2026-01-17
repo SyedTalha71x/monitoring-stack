@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "Alert Dashboard",
+    "tags": ["alerts", "monitoring"],
+    "timezone": "browser",
+    "panels": [],
+    "refresh": "10s"
+  },
+  "overwrite": true
+}

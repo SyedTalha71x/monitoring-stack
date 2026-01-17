@@ -1,0 +1,15 @@
+{
+  "title": "Microservices Overview",
+"tags": ["microservices", "overview"],
+"timezone": "browser",
+"panels": [],
+"time": {
+  "from": "now-1h",
+  "to": "now"
+},
+"refresh": "10s"
+  },
+  "timezone": "browser",
+  "refresh": "10s",
+  "schemaVersion": 36
+}

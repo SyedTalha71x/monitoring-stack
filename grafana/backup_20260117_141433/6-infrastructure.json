@@ -1,0 +1,11 @@
+{
+  "title": "Infrastructure",
+"tags": ["infrastructure", "system"],
+"timezone": "browser",
+"panels": [],
+"refresh": "15s"
+  },
+  "timezone": "browser",
+  "refresh": "10s",
+  "schemaVersion": 36
+}

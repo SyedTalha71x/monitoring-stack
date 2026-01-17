@@ -1,0 +1,11 @@
+{
+  "title": "User Service",
+"tags": ["user-service", "monitoring"],
+"timezone": "browser",
+"panels": [],
+"refresh": "10s"
+  },
+  "timezone": "browser",
+  "refresh": "10s",
+  "schemaVersion": 36
+}

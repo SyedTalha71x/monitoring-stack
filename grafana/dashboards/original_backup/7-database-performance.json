@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "Database Performance",
+    "tags": ["database", "mongodb", "performance"],
+    "timezone": "browser",
+    "panels": [],
+    "refresh": "15s"
+  },
+  "overwrite": true
+}

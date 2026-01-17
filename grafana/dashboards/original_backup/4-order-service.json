@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "Order Service",
+    "tags": ["order-service", "monitoring"],
+    "timezone": "browser",
+    "panels": [],
+    "refresh": "10s"
+  },
+  "overwrite": true
+}

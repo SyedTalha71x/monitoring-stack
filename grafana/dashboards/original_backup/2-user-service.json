@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "User Service",
+    "tags": ["user-service", "monitoring"],
+    "timezone": "browser",
+    "panels": [],
+    "refresh": "10s"
+  },
+  "overwrite": true
+}

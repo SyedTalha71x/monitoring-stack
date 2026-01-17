@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "Infrastructure",
+    "tags": ["infrastructure", "system"],
+    "timezone": "browser",
+    "panels": [],
+    "refresh": "15s"
+  },
+  "overwrite": true
+}
